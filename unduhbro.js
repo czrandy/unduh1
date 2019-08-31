@@ -25,7 +25,7 @@ if(x=="1"){xxx="/2018/03/national-car-rental-quality-through.html"}
 if(x=="2"){xxx="/2018/03/choosing-domain-name-for-your-domain.html"}
 if(x=="3"){xxx="/2018/03/affiliate-marketing-mixed-with-google.html"}
 if(x=="4"){xxx="/2018/03/best-acne-treatments-for-teenagers.html"}
-if(x=="5"){xxx="/2018/03/mesothelioma-law-firm.html"}a_to_ve[i].href="https://unduh.czrandy.com/2018/03/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="5"){xxx="/2018/03/mesothelioma-law-firm.html"}a_to_ve[i].href="https://unduh.czrandy.com/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
